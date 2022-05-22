@@ -1,4 +1,3 @@
-[http]
-	proxy = http://127.0.0.1:10809
-[https]
-	proxy = http://127.0.0.1:10809
+[user]
+	email = liusy200708@163.com
+	name = AB-IN-lsy

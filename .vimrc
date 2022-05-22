@@ -9,6 +9,8 @@ let g:neocomplcache_enable_at_startup = 1
 set nocompatible              "这是必需的"
 filetype off                  "这是必需的"
 
+set encoding=utf-8
+
 "配置YCM在此设置运行时路径"
 set rtp+=~/.vim/bundle/Vundle
 

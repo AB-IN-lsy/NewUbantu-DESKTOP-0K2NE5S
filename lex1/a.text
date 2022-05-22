@@ -1,0 +1,81 @@
+******************************************
+                词法分析器                  
+******************************************
+Line=  1,Column=  0 : 这是一个注释 // @Author: NEFU AB-IN
+Line=  2,Column=  0 : 这是一个注释 // @Date: 2022-04-29 16:26:51
+Line=  3,Column=  0 : 这是一个注释 // @FilePath: \undefinedd:\Ubantu\Ubuntu_2004.2020.424.0_x64\rootfs\root\lex1\test.cpp
+Line=  4,Column=  0 : 这是一个注释 // @LastEditTime: 2022-04-29 16:37:25
+Line=  5,Column=  0 : 这是一个注释 // @Blog: blog.ab-in.cn
+Line=  7,Column=  1 : 这是一个标识符 include
+Line=  7,Column= 10 : 这是一个标识符 cstdio
+Line=  8,Column=  0 : 这是一个标识符 using
+Line=  8,Column=  6 : 这是一个标识符 namespace
+Line=  8,Column= 16 : 这是一个标识符 std
+Line=  8,Column= 20 : 这是一个界符 ;
+Line=  9,Column=  1 : 这是一个标识符 define
+Line=  9,Column=  8 : 这是关键字 int
+Line=  9,Column= 12 : 这是一个标识符 long
+Line=  9,Column= 17 : 这是一个标识符 long
+Line= 11,Column=  0 : 这是一个标识符 const
+Line= 11,Column=  6 : 这是关键字 int
+Line= 11,Column= 10 : 这是一个标识符 N
+Line= 11,Column= 13 : 这是一个操作符 =
+Line= 11,Column= 18 : 这是一个int型 1000
+Line= 11,Column= 19 : 这是一个界符 ;
+Line= 13,Column=  0 : 这是一个标识符 signed
+Line= 13,Column=  7 : 这是关键字 main
+Line= 13,Column= 12 : 这是一个界符 (
+Line= 13,Column= 13 : 这是一个界符 )
+Line= 14,Column=  1 : 这是一个界符 {
+Line= 15,Column=  4 : 这是关键字 int
+Line= 15,Column=  8 : 这是一个标识符 i
+Line= 15,Column= 11 : 这是一个操作符 =
+Line= 15,Column= 13 : 这是一个int型 2
+Line= 15,Column= 14 : 这是一个界符 ;
+Line= 16,Column=  4 : 这是关键字 int
+Line= 16,Column=  8 : 这是一个标识符 j
+Line= 16,Column= 11 : 这是一个操作符 =
+Line= 16,Column= 13 : 这是一个int型 4
+Line= 16,Column= 14 : 这是一个界符 ;
+Line= 17,Column=  4 : 这是关键字 int
+Line= 17,Column=  8 : 这是一个标识符 result
+Line= 17,Column= 16 : 这是一个操作符 =
+Line= 17,Column= 18 : 这是一个int型 0
+Line= 17,Column= 19 : 这是一个界符 ;
+Line= 18,Column=  4 : 这是关键字 float
+Line= 18,Column= 10 : 这是一个标识符 k
+Line= 18,Column= 13 : 这是一个操作符 =
+Line= 18,Column= 17 : 这是一个float型 3.0
+Line= 18,Column= 18 : 这是一个界符 ;
+Line= 19,Column=  4 : 这是关键字 while
+Line= 19,Column= 11 : 这是一个界符 (
+Line= 19,Column= 11 : 这是一个标识符 i
+Line= 19,Column= 14 : 这是一个操作符 <=
+Line= 19,Column= 15 : 这是一个标识符 j
+Line= 19,Column= 17 : 这是一个界符 )
+Line= 20,Column=  5 : 这是一个界符 {
+Line= 21,Column=  8 : 这是一个标识符 result
+Line= 21,Column= 16 : 这是一个操作符 =
+Line= 21,Column= 17 : 这是一个标识符 result
+Line= 21,Column= 25 : 这是一个操作符 +
+Line= 21,Column= 26 : 这是一个标识符 j
+Line= 21,Column= 28 : 这是一个界符 ;
+Line= 22,Column=  8 : 这是一个标识符 i
+Line= 22,Column= 10 : 这是一个操作符 +
+Line= 22,Column= 11 : 这是一个操作符 +
+Line= 22,Column= 12 : 这是一个界符 ;
+Line= 23,Column=  5 : 这是一个界符 }
+Line= 24,Column=  4 : 这是一个标识符 printf
+Line= 24,Column= 11 : 这是一个界符 (
+Line= 24,Column= 12 : 这是一个界符 )
+Line= 24,Column= 13 : 这是一个界符 ;
+Line= 26,Column=  4 : 这是关键字 return
+Line= 26,Column= 12 : 这是一个int型 0
+Line= 26,Column= 13 : 这是一个界符 ;
+Line= 27,Column=  1 : 这是一个界符 }
+******************************************
+计数
+字符数:  473
+行数:   27
+字数:   31
+******************************************
